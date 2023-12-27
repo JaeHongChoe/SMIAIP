@@ -2,7 +2,7 @@
 ### 2021 Hallym University Capstone Design
 
 #### Team Members: 이승리, 서영재, 서원진, 최재홍
-#### Paper: 
+#### Paper: [**Generative Adversarial Networks Based Data Augmentation to Address Medical Data Imbalances**](https://koreascience.kr/article/CFKO202233649535454.page)
 
 -----
 
